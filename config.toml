@@ -1,0 +1,4 @@
+baseURL = 'https://siddheshrane.github.io'
+languageCode = 'en-us'
+title = 'Siddhesh Rane'
+theme = "cactus"
